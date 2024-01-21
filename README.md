@@ -20,6 +20,16 @@ This Streamlit-based app provides a visual interface for processing JSON files g
     - **Select Categories and Metadata:** On the app's sidebar, select the categories and metadata types you wish to include from the predefined lists.
     - **View Filtered Data:** The app will process the uploaded file and display the filtered elements and metadata based on your selections.
     - **Download Data:** If you wish to download the filtered text, use the provided download button.
+<br>
+
+**Example Of Loading And Viewing Text**
+![Example Of Loading And Viewing Text](Gifs/20240121_TextDisplay.gif)
+<br>
+
+**Example Of Select Features**
+![Example Of Select Features](Gifs/20240121_Features.gif)
+
+
 
 ### Step By Step Instructions
 
